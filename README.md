@@ -1,6 +1,8 @@
 # George-Geump
 George Geump (pronounced Jump) is a stupid gameboy game I'm making with gb studio. If I like how it turns out, I'll probably learn how to properly develop for gameboy color
 
+[game link](https://ploiu.github.io/George-Geump/)
+
 ## Controls
 
 ### Gameboy
@@ -13,7 +15,7 @@ George Geump (pronounced Jump) is a stupid gameboy game I'm making with gb studi
   <dd>Interact (with signs, etc)</dd>
 </dl>
 
-### In Browser
+### In Browser (you'll need a keyboard)
 WASD controls And
 <dl>
   <dt><code>J</code></dt>
