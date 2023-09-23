@@ -10663,9 +10663,9 @@
         }
     ],
     "settings": {
-        "startSceneId": "925c2ef5-ec6b-4549-b350-d7b3d9e8a5bb",
-        "startX": 17,
-        "startY": 85,
+        "startSceneId": "961b109a-69cd-4745-9898-de76ba92fc8d",
+        "startX": 9,
+        "startY": 13,
         "startMoveSpeed": 1,
         "startAnimSpeed": 15,
         "startDirection": "down",

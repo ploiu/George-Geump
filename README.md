@@ -1,27 +1,25 @@
-# George-Geump
-George Geump (pronounced Jump) is a stupid gameboy game I'm making with gb studio. If I like how it turns out, I'll probably learn how to properly develop for gameboy color
+# binjgb
 
-[game link](https://ploiu.github.io/George-Geump/)
+Fork of binji's Game Boy emulator built as a WebAssembly module.
 
-## Controls
+It includes changes from [Daid's fork](https://github.com/daid/binjgb) and others to better support GB Studio.
 
-### Gameboy
-<dl>
-  <dt><code>A</code></dt>
-  <dd>Jump</dd>
-  <dt><code>B</code> (hold)</dt>
-  <dd>Run/jump further/move more in the air</dd>
-  <dt><code>UP</code></dt>
-  <dd>Interact (with signs, etc)</dd>
-</dl>
+## License
 
-### In Browser (you'll need a keyboard)
-WASD controls And
-<dl>
-  <dt><code>J</code></dt>
-  <dd>Jump</dd>
-  <dt><code>K</code> (hold)</dt>
-  <dd>Run/jump further/move more in the air</dd>
-  <dt><code>W</code></dt>
-  <dd>Interact (with signs, etc)</dd>
-</dl>
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
